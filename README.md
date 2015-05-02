@@ -1,2 +1,4 @@
-# cloudcron
-Cloud Cron: AWS Lambda like service using Docker Containers
+CloudCron
+=======
+
+AWS Lambda like service using Docker Containers
